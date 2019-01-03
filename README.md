@@ -13,4 +13,4 @@
   * small grid search on the best possible architecture for producing eights,
   * stacking RBM to get a DBN (possibly for later use, see 'Deep Belief Nets' by G. Hinton. 
   
-**mnist_small.csv**: a set of 10000 examples from the mnist dataset.
+**mnist_small.csv**: a set of 5000 examples from the mnist dataset.
